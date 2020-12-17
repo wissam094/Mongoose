@@ -1,0 +1,19 @@
+{
+  "name": "mangoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.7",
+    "nodemon": "^2.0.6",
+    "validator": "^13.5.2"
+  }
+}
